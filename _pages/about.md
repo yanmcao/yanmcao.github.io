@@ -26,13 +26,21 @@ I am currently an Ph.d student with School of Cyber Engineering, Xidian Universi
 
 # 📝 Publications 
 
+- [Improved differential-neural cryptanalysis for round-reduced simeck32/64, Frontiers of Computer Science, 2023](https://link.springer.com/article/10.1007/s11704-023-3261-z), **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li. 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [More insight on deep learning-aided cryptanalysis, International Conference on the Theory and Application of Cryptology and Information Security, 2023](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15), Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang (Sorted by last name, Co-corresponding author), Asiacrypt 2023**. 
+
+- [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT, IEICE TRANSACTIONS on Information and Systems, 2023](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240), **Liu Zhang**, Zilong Wang , Yindong Chen. 
+
+- [Translation equivalence of Boolean functions expressed by primitive element, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2019](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai. 
 
 # 📝 Preprint
 
+- [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis, Cryptology ePrint Archive, 2024](https://eprint.iacr.org/2024/322), Weixi Zheng, **Liu Zhang**, Zilong Wang. 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers, Cryptology ePrint Archive, 2022](https://eprint.iacr.org/2022/720), **Liu Zhang**, Huawei Liu, Zilong Wang. 
+
+- [Improving Differential-Neural Cryptanalysis, Cryptology ePrint Archive, 2022](https://eprint.iacr.org/2022/183), **Liu Zhang**, Zilong Wang, Baocang Wang. 
 
 # 🎖 Honors and Awards
 
