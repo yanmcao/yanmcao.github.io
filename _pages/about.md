@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Ph.d student with School of Cyber Engineering, Xidian University in China. My research interests focus on Symmetric-key Cryptography and Artifical Intelligence and Cryptanalysis. Now, I'm a visiting Ph.d student at Nanyang Technological University.
+I am currently an Ph.d student with School of Cyber Engineering, Xidian University in China. My research interests focus on Symmetric-key Cryptography and Artifical Intelligence and Cryptanalysis. Now, I'm a visiting Ph.d student at Nanyang Technological University in Singapore.
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+
+- *2023.08*: 🎉 The paper "More insight on deep learning-aided cryptanalysis" is accpted by **Asiacrypt 2023**.
 
 # 📝 Publications 
 
