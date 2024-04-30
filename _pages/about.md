@@ -26,21 +26,29 @@ I am currently an Ph.d student with School of Cyber Engineering, Xidian Universi
 
 # 📝 Publications 
 
-- [Improved differential-neural cryptanalysis for round-reduced simeck32/64, Frontiers of Computer Science, 2023](https://link.springer.com/article/10.1007/s11704-023-3261-z), **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li. 
+### 2024
 
-- [More insight on deep learning-aided cryptanalysis, International Conference on the Theory and Application of Cryptology and Information Security, 2023](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15), Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang (Sorted by last name, Co-corresponding author), Asiacrypt 2023**. 
+- [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2024/322), Weixi Zheng, **Liu Zhang**, Zilong Wang. 
 
-- [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT, IEICE TRANSACTIONS on Information and Systems, 2023](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240), **Liu Zhang**, Zilong Wang , Yindong Chen. 
+### 2023
 
-- [Translation equivalence of Boolean functions expressed by primitive element, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2019](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai. 
+- [Improved differential-neural cryptanalysis for round-reduced simeck32/64, Frontiers of Computer Science](https://link.springer.com/article/10.1007/s11704-023-3261-z), **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li. 
 
-# 📝 Preprint
+- [More insight on deep learning-aided cryptanalysis, International Conference on the Theory and Application of Cryptology and Information Security](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15), Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang (Sorted by last name, Co-corresponding author), Asiacrypt 2023**. 
 
-- [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis, Cryptology ePrint Archive, 2024](https://eprint.iacr.org/2024/322), Weixi Zheng, **Liu Zhang**, Zilong Wang. 
+- [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT, IEICE TRANSACTIONS on Information and Systems](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240), **Liu Zhang**, Zilong Wang , Yindong Chen. 
 
-- [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers, Cryptology ePrint Archive, 2022](https://eprint.iacr.org/2022/720), **Liu Zhang**, Huawei Liu, Zilong Wang. 
+### 2022
 
-- [Improving Differential-Neural Cryptanalysis, Cryptology ePrint Archive, 2022](https://eprint.iacr.org/2022/183), **Liu Zhang**, Zilong Wang, Baocang Wang. 
+- [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers, Cryptology ePrint Archive](https://eprint.iacr.org/2022/720), **Liu Zhang**, Huawei Liu, Zilong Wang. 
+
+- [Improving Differential-Neural Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2022/183), **Liu Zhang**, Zilong Wang, Baocang Wang. 
+
+### 2019
+
+- [Translation equivalence of Boolean functions expressed by primitive element, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai. 
+
+
 
 # 🎖 Honors and Awards
 
