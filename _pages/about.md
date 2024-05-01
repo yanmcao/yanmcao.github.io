@@ -48,7 +48,11 @@ I am currently an Ph.d student with School of Cyber Engineering, Xidian Universi
 
 - [Translation equivalence of Boolean functions expressed by primitive element, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai. 
 
+- [Fast Algebraic Immunity of $2^ m+ 2 \ \& \ 2^ m+ 3$ Variables Majority Function, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8737939), Yindong Chen, **Liu Zhang**, Fei Guo, Weihong Cai. 
 
+- [A lower bound of fast algebraic immunity of a class of 1-resilient Boolean functions, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8755285), Yindong Chen, **Liu Zhang**, Jianlong Xu, Weihong Cai. 
+
+- [Constructing two classes of Boolean functions with good cryptographic properties, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8868156), Yindong Chen, **Liu Zhang**, zhangquan Gong, Weihong Cai. 
 
 # 🎖 Honors and Awards
 
