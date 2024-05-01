@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Ph.d student with School of Cyber Engineering, Xidian University in China. My research interests focus on Symmetric-key Cryptography and Artifical Intelligence and Cryptanalysis. Now, I'm a visiting Ph.d student at Nanyang Technological University in Singapore.
+I am a PhD student at the School of Cyber Engineering, Xidian University in China. My research interests focus on Symmetric-key Cryptography, Artificial Intelligence and Cryptanalysis. I am a visiting PhD student at Nanyang Technological University in Singapore.
 
 
 # 🔥 News
