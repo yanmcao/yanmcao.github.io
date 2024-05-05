@@ -22,7 +22,7 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 # 🔥 News
 
-- *2023.08*: 🎉 The paper "More insight on deep learning-aided cryptanalysis" is accpted by **Asiacrypt 2023**.
+- *2023.08*: The paper "More insight on deep learning-aided cryptanalysis" is accpted by **Asiacrypt 2023**.
 
 
 # 📝 Publications 
