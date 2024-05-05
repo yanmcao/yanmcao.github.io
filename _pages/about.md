@@ -24,6 +24,7 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 - *2023.08*: 🎉 The paper "More insight on deep learning-aided cryptanalysis" is accpted by **Asiacrypt 2023**.
 
+
 # 📝 Publications 
 
 ### 2024
@@ -63,11 +64,11 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 # 📖 Educations
 
-- *2022.10 - Now*, Visiting Phd Student, School of Physical and Mathematical Sciences, Nanyang Technological University, supervised by Jian Guo.
+- *2022.10 - Now*, Visiting PhD Student, School of Physical and Mathematical Sciences, Nanyang Technological University, Supervised by Jian Guo.
 
-- *2021.09 - Now*, Phd Student, School of Cyber Engineering, Xidian University, supervised by Zilong Wang.
+- *2021.09 - Now*, PhD Student, School of Cyber Engineering, Xidian University, Supervised by Zilong Wang.
 
-- *2017.09 - 2020.06*, Master, Colloge of Engineering, Shantou University, supervised by Yindong Chen.
+- *2017.09 - 2020.06*, Master, Colloge of Engineering, Shantou University, Supervised by Yindong Chen.
 
 - *2013.09 - 2016.06*, Undergraduate, School of Computer and Inforamtion Technology, Xinyang Normal University.
 
