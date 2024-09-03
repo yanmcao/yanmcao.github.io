@@ -40,7 +40,7 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 ### 2022
 
 - [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers, Cryptology ePrint Archive](https://eprint.iacr.org/2022/720), **Liu Zhang**, Huawei Liu, Zilong Wang.
-- [Improving Differential-Neural Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2022/183), **Liu Zhang**, Zilong Wang, Baocang Wang.
+<!-- - [Improving Differential-Neural Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2022/183), **Liu Zhang**, Zilong Wang, Baocang Wang. -->
 
 ### 2019
 
