@@ -25,7 +25,8 @@
 
   .page__inner-wrap {
     @include full();
-
+    background-color:#F7F7F7;
+    //  background-color:#F2F2F2;
     .page__content,
     .page__meta,
     .page__share {
