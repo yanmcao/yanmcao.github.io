@@ -26,26 +26,28 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 ##### 2024
 
-- ``IACR CIC 2024`` Improving Differential-Neural Cryptanalysis, IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
-- ``IEICE TIS`` Differential-neural Cryptanalysis on AES, IEICE TRANSACTIONS on Information and Systems,**Liu Zhang**, Zilong Wang, Jinyu Lu.
-- ``IACR eprint`` [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2024/322), Weixi Zheng, **Liu Zhang**, Zilong Wang.
+- **Liu Zhang**, Zilong Wang, Baocang Wang, "Improving Differential-Neural Cryptanalysis" \
+  in IACR Communications in Cryptology - **IACR CIC 2024-3** 
+- **Liu Zhang**, Zilong Wang, Jinyu Lu, "Differential-neural Cryptanalysis on AES" \
+  in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
+  
+- Weixi Zheng, **Liu Zhang**, Zilong Wang,["Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis"](https://eprint.iacr.org/2024/322) \
+  in Cryptology ePrint Archive - **IACR eprint**
 
 ##### 2023
 
-- ``FCS`` [Improved differential-neural cryptanalysis for round-reduced simeck32/64, Frontiers of Computer Science](https://link.springer.com/article/10.1007/s11704-023-3261-z), **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li.
-- ``Asiacrypt 2023`` [More insight on deep learning-aided cryptanalysis, International Conference on the Theory and Application of Cryptology and Information Security](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15), Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang (Sorted by last name, Co-corresponding author)**.
-- ``IEICE TIS`` [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT, IEICE TRANSACTIONS on Information and Systems](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240), **Liu Zhang**, Zilong Wang , Yindong Chen.
+- **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li, ["Improved differential-neural cryptanalysis for round-reduced simeck32/64](https://link.springer.com/article/10.1007/s11704-023-3261-z) \
+  in Frontiers of Computer Science - **FCS** 
+- Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang**, ["More insight on deep learning-aided cryptanalysis"](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15) \
+  in International Conference on the Theory and Application of Cryptology and Information Security (Sorted by last name, Co-corresponding author) - **Asiacrypt 2023**
+- **Liu Zhang**, Zilong Wang , Yindong Chen, ["Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT"](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240) \
+  in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
 
 ##### 2022
 
-- ``IACR eprint`` [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers, Cryptology ePrint Archive](https://eprint.iacr.org/2022/720), **Liu Zhang**, Huawei Liu, Zilong Wang.
+- **Liu Zhang**, Huawei Liu, Zilong Wang, ["A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers"](https://eprint.iacr.org/2022/720) \
+  in Cryptology ePrint Archive - **IACR eprint**
 
-<!-- ##### 2019
-
-- [Translation equivalence of Boolean functions expressed by primitive element, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai.
-- [Fast Algebraic Immunity of $2^ m+ 2 \ \& \ 2^ m+ 3$ Variables Majority Function, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8737939), Yindong Chen, **Liu Zhang**, Fei Guo, Weihong Cai.
-- [A lower bound of fast algebraic immunity of a class of 1-resilient Boolean functions, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8755285), Yindong Chen, **Liu Zhang**, Jianlong Xu, Weihong Cai.
-- [Constructing two classes of Boolean functions with good cryptographic properties, IEEE Access](https://ieeexplore.ieee.org/abstract/document/8868156), Yindong Chen, **Liu Zhang**, zhangquan Gong, Weihong Cai. -->
 
 # Honors and Awards
 
