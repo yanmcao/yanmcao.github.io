@@ -26,28 +26,19 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 ##### 2024
 
-- **Liu Zhang**, Zilong Wang, Baocang Wang, "Improving Differential-Neural Cryptanalysis" \
-  in IACR Communications in Cryptology - **IACR CIC 2024-3** 
-- **Liu Zhang**, Zilong Wang, Jinyu Lu, "Differential-neural Cryptanalysis on AES" \
-  in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
-  
-- Weixi Zheng, **Liu Zhang**, Zilong Wang,["Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis"](https://eprint.iacr.org/2024/322) \
-  in Cryptology ePrint Archive - **IACR eprint**
+- **Liu Zhang**, Zilong Wang, Baocang Wang, Improving Differential-Neural Cryptanalysis in IACR Communications in Cryptology - **IACR CIC 2024-3**
+- **Liu Zhang**, Zilong Wang, Jinyu Lu, Differential-neural Cryptanalysis on AES in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
+- Weixi Zheng, **Liu Zhang**, Zilong Wang,[Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis](https://eprint.iacr.org/2024/322) in Cryptology ePrint Archive - **IACR eprint**
 
 ##### 2023
 
-- **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li, ["Improved differential-neural cryptanalysis for round-reduced simeck32/64](https://link.springer.com/article/10.1007/s11704-023-3261-z) \
-  in Frontiers of Computer Science - **FCS** 
-- Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang**, ["More insight on deep learning-aided cryptanalysis"](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15) \
-  in International Conference on the Theory and Application of Cryptology and Information Security (Sorted by last name, Co-corresponding author) - **Asiacrypt 2023**
-- **Liu Zhang**, Zilong Wang , Yindong Chen, ["Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT"](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240) \
-  in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
+- **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li, [Improved differential-neural cryptanalysis for round-reduced simeck32/64](https://link.springer.com/article/10.1007/s11704-023-3261-z) in Frontiers of Computer Science - **FCS**
+- Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang**, [More insight on deep learning-aided cryptanalysis](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15) in International Conference on the Theory and Application of Cryptology and Information Security (Sorted by last name, Co-corresponding author) - **Asiacrypt 2023**
+- **Liu Zhang**, Zilong Wang , Yindong Chen, [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240) in IEICE TRANSACTIONS on Information and Systems - **IEICE TIS**
 
 ##### 2022
 
-- **Liu Zhang**, Huawei Liu, Zilong Wang, ["A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers"](https://eprint.iacr.org/2022/720) \
-  in Cryptology ePrint Archive - **IACR eprint**
-
+- **Liu Zhang**, Huawei Liu, Zilong Wang, [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers](https://eprint.iacr.org/2022/720) in Cryptology ePrint Archive - **IACR eprint**
 
 # Honors and Awards
 
