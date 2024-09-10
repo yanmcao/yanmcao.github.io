@@ -9,7 +9,6 @@ div.highlighter-rouge, figure.highlight {
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background-color: $code-background-color;
-  // background-color: #22b3eb;
   box-shadow: $box-shadow;
 
   &:before {
@@ -32,6 +31,16 @@ div.highlighter-rouge, figure.highlight {
     font-size: $type-size-7;
     line-height: 1.8;
   }
+}
+
+.highlighter-rouge{
+  background-color: #03228d;
+  color: white;
+  margin-bottom: 0em;
+  padding: 0em;
+  font-size: $type-size-7;
+  border: 0px solid $border-color;
+  border-radius: 0;
 }
 
 .highlight table td { padding: 5px; }
