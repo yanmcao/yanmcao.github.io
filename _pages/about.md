@@ -26,7 +26,7 @@ I am a PhD student at the School of Cyber Engineering, Xidian University in Chin
 
 ##### 2024
 
-- ``IACR CIC`` Improving Differential-Neural Cryptanalysis, IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
+- ``IACR CIC 2024`` Improving Differential-Neural Cryptanalysis, IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
 - ``IEICE TIS`` Differential-neural Cryptanalysis on AES, IEICE TRANSACTIONS on Information and Systems,**Liu Zhang**, Zilong Wang, Jinyu Lu.
 - ``IACR eprint`` [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis, Cryptology ePrint Archive](https://eprint.iacr.org/2024/322), Weixi Zheng, **Liu Zhang**, Zilong Wang.
 
