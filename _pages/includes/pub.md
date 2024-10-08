@@ -3,7 +3,7 @@
 
 ##### 2024 
 
-- ``IACR CIC 2024-3`` [Improving Differential-neural Cryptanalysis](https://eprint.iacr.org/2022/183), IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
+- ``IACR CIC 2024-3`` [Improving Differential-neural Cryptanalysis](https://cic.iacr.org/p/1/3/13), IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
 
 - ``IEICE TIS`` [Differential-neural Cryptanalysis on AES](https://search.ieice.org/bin/summary.php?id=e107-d_10_1372), IEICE TRANSACTIONS on Information and Systems, **Liu Zhang**, Zilong Wang, Jinyu Lu.
 
