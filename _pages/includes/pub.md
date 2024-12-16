@@ -23,7 +23,7 @@
 
 ##### 2020
 
-- ``ICICS 2020`` [New practical public-key deniable encryption](https://link.springer.com/chapter/10.1007/978-3-030-61078-4_9), International Conference on Information and Communications Security, **Yanmei Cao**, Yanmei Cao, Fangguo Zhang, Chongzhi Gao, Xiaofeng Chen.
+- ``ICICS 2020`` [New practical public-key deniable encryption](https://link.springer.com/chapter/10.1007/978-3-030-61078-4_9), International Conference on Information and Communications Security, **Yanmei Cao**, Fangguo Zhang, Chongzhi Gao, Xiaofeng Chen.
 
 
 ##### 2019
