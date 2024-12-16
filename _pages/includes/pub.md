@@ -3,30 +3,36 @@
 
 ##### 2024 
 
-- ``IACR CIC 2024-3`` [Improving Differential-neural Cryptanalysis](https://cic.iacr.org/p/1/3/13), IACR Communications in Cryptology, **Liu Zhang**, Zilong Wang, Baocang Wang.
+- ``TDSC`` [Deniable identity-based matchmaking encryption for annoymous messaging](https://ieeexplore.ieee.org/abstract/document/10715646), IEEE Transactions on Dependable and Secure Computing, **Yanmei Cao**, Jianghong Wei, Xinyi Huang, Xiaofeng Chen, Yang Xiang.
 
-- ``IEICE TIS`` [Differential-neural Cryptanalysis on AES](https://search.ieice.org/bin/summary.php?id=e107-d_10_1372), IEICE TRANSACTIONS on Information and Systems, **Liu Zhang**, Zilong Wang, Jinyu Lu.
 
-- ``IACR eprint`` [Theoretical Explanation and Improvement of Deep Learning-aided Cryptanalysis](https://eprint.iacr.org/2024/322), Cryptology ePrint Archive, Weixi Zheng, **Liu Zhang**, Zilong Wang.
-
-##### 2023
-
-- ``FCS`` [Improved Differential-neural Cryptanalysis for Round-reduced Simeck32/64](https://link.springer.com/article/10.1007/s11704-023-3261-z), Frontiers of Computer Science, **Liu Zhang**, Jinyu Lu, Zilong Wang, Chao Li.
-  
-- ``Asiacrypt 2023`` [More Insight on Deep Learning-aided Cryptanalysis](https://link.springer.com/chapter/10.1007/978-981-99-8727-6_15), International Conference on the Theory and Application of Cryptology and Information Security, Zhenzhen Bao, Jinyu Lu, Yiran Yao, **Liu Zhang**. (Sorted by last name, Co-corresponding author)
-  
-- ``IEICE TIS`` [Improving the Accuracy of Differential-Neural Distinguisher for DES, Chaskey, and PRESENT](https://search.ieice.org/bin/summary.php?id=e106-d_7_1240), IEICE TRANSACTIONS on Information and Systems, **Liu Zhang**, Zilong Wang, Yindong Chen. 
+- ``CSI`` [Abuse-resistant deniable encryption](https://www.sciencedirect.com/science/article/pii/S0920548923000429), Computer Standards & Interfaces, **Yanmei Cao**, Jianghong Wei,Yang Xiang,Willy Susilo, Xiaofeng Chen.
 
 ##### 2022
 
-- ``IACR eprint`` [A Model Set Method to Search Integral Distinguishers Based on Division Property for Block Ciphers](https://eprint.iacr.org/2022/720), Cryptology ePrint Archive, **Liu Zhang**, Huawei Liu, Zilong Wang.
+- ``CSI`` [Efficient public-key authenticated deniable encryption schemes](https://www.sciencedirect.com/science/article/pii/S0920548922000010), Computer Standards & Interfaces, **Yanmei Cao**, Jianghong Wei,Fangguo Zhang,Yang Xiang,Xiaofeng Chen.
+
+- ``JoCS`` [A survey on deniable encryption](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000535), Journal of Cryptologic Research, Xuexuan Hao, **Yanmei Cao**, Fangguo Zhang, Xiaofeng Chen.
+
+##### 2021
+
+- ``ACNS 2021`` [An efficient certificate-based signature scheme in the standard model](https://link.springer.com/chapter/10.1007/978-3-030-78372-3_12), International Conference on Applied Cryptography and Network Security, Guoqiang Wang,**Yanmei Cao**.
+
+
+- ``IFIP Networkding 2021`` [Poster: Eid in europe - password authentication revisited](https://ieeexplore.ieee.org/abstract/document/9472856), IFIP Networking Conference, Mirosław Kutyłowski, Przemysław Kubiak, Patryk Koziel, **Yanmei Cao**.
+
+##### 2020
+
+- ``ICICS 2020`` [New practical public-key deniable encryption](https://link.springer.com/chapter/10.1007/978-3-030-61078-4_9), International Conference on Information and Communications Security, **Yanmei Cao**, Yanmei Cao, Fangguo Zhang, Chongzhi Gao, Xiaofeng Chen.
+
 
 ##### 2019
 
-- ``IEICE TFECCS`` [Translation Equivalence of Boolean Functions Expressed by Primitive Element](https://search.ieice.org/bin/summary.php?id=e102-a_4_672), IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Yindong Chen, **Liu Zhang**, Deng Tang, Weihong Cai.
+- ``JoM`` [On a generalization of the d. h. lemher problem inunions of short intervals,](http://sxzz.whu.edu.cn/html/2019/3/20190307.htm), Journal of Mathematics, Xiaoying WANG, **Yanmei Cao**.
 
-- ``IEEE Access`` [Fast Algebraic Immunity of $2^ m+ 2 \ \& \ 2^ m+ 3$ Variables Majority Function](https://ieeexplore.ieee.org/abstract/document/8737939), IEEE Access, Yindong Chen, **Liu Zhang**, Fei Guo, Weihong Cai.
+##### 2018
 
-- ``IEEE Access`` [A Lower Bound of Fast Algebraic Immunity of A Class of 1-resilient Boolean Functions](https://ieeexplore.ieee.org/abstract/document/8755285), IEEE Access, Yindong Chen, **Liu Zhang**, Jianlong Xu, Weihong Cai.
-  
-- ``IEEE Access`` [Constructing Two Classes of Boolean Functions with Good Cryptographic Properties](https://ieeexplore.ieee.org/abstract/document/8868156), IEEE Access, Yindong Chen, **Liu Zhang**, Zhangquan Gong, Weihong Cai.
+- ``AMH`` [Large families of subsets arising from woods problem and their pseudorandomness](https://link.springer.com/article/10.1007/s10474-018-0834-7), Acta Mathematica Hungarica, **Yanmei Cao**, huaning Liu.
+
+- ``AMS`` [On the mean value distribution of the difference between an integer and its m-th power over unions of short intervals](https://actamath.cjoe.ac.cn/Jwk_sxxb_cn/EN/10.12386/A2018sxxb0085), Acta Mathematica Sinica (Chinese Series), Xiaoying WANG, **Yanmei Cao**.
+

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Liu Zhang"
-description              : "PhD Student of Xidian University, focusing on cryptanalysis and deep learning"
-repository               : "liuzhang-xdu/liuzhang-xdu.github.io"
+title                    : "Yanmei Cao"
+description              : "Lecturer of Xi'an University of Posts and Telecommunications, focusing on Public Key Cryptography"
+repository               : "yanmcao/yanmcao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Liu Zhang (张柳)"
+  name             : "Yanmei Cao (曹艳梅)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xidian University"
+  bio              : "Xi'an University of Posts and Telecommunications"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tYMbI4UAAAAJ&hl=zh-CN"
-  email            : "17lzhang3@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=5nsRgcsAAAAJ&hl=zh-CN"
+  email            : "yanmcao@xupt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cryptAnalystDesigner"
+  # github           : "cryptAnalystDesigner"
   google_plus      :
   keybase          :
   instagram        :
