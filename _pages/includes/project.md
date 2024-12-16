@@ -2,7 +2,7 @@
 # </> Project
 
 
-- 2025.01 – 2026.12, The Project Supported by Natural Science Basic Research Plan in Shaanxi Province of China, Research on Secure and Efficient Deniable Encryption Algorithms, Ongoing, **Host**.
+<!-- - 2025.01 – 2026.12, The Project Supported by Natural Science Basic Research Plan in Shaanxi Province of China, Research on Secure and Efficient Deniable Encryption Algorithms, Ongoing, **Host**. -->
 - 2025.01 – 2026.12,  Xi’an University of Posts and Telecommunications School-Level Scientific Research
 Start-up Funding Project, Research on Efficient Deniable Encryption Schemes, Ongoing, **Host**.
 - 2024.06 – 2026.12, Key Research and Development Project in Shaanxi Province of China, Research on Data Full Life Cycle Security Technology for Digital Chain Integration, Ongoing, Paticipant.
