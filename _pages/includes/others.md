@@ -1,10 +1,14 @@
 
 # 📖 Educations
 
-- 2022.10 - 2024.06, Visiting PhD Student, School of Physical and Mathematical Sciences, Nanyang Technological University, Supervised by Jian Guo.
-- 2021.09 - Now, PhD Student, School of Cyber Engineering, Xidian University, Supervised by Zilong Wang.
-- 2017.09 - 2020.06, Master, Colloge of Engineering, Shantou University, Supervised by Yindong Chen.
-- 2013.09 - 2016.06, Undergraduate, School of Computer and Inforamtion Technology, Xinyang Normal University.
+- 2019.09 – 2023.06, PhD, School of Cyber Engineering, Xidian University, supervised by Xiaofeng Chen.
+- 2015.09 – 2018.06, Master, School of Mathematics, Northwest University, supervised by Xiaoying Wang.
+- 2011.09 – 2015.06 Bachelor, Mathematics and Statistics School, Shanxi Datong University.
+
+# 💻 Employment
+
+- 2023.06 – present, Lecturer,Information Security Department, School of Cyberspace Security, Xi'an University of Posts and Telecommunications, China
+
 
 
 <!-- # 💬 Invited Talks
