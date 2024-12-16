@@ -6,6 +6,11 @@ main:
     - title: "Educations"
     url: "/#-educations"
 
+  
+    - title: "Employments"
+    url: "/#-employments"
+
+
   - title: "News"
     url: "/#-news"
 
@@ -14,8 +19,6 @@ main:
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
-
-
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
