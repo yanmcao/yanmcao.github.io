@@ -3,13 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
   
-    - title: "Educations"
+  - title: "Educations"
     url: "/#-educations"
 
-  
-    - title: "Employments"
+  - title: "Employments"
     url: "/#-employments"
-
 
   - title: "News"
     url: "/#-news"

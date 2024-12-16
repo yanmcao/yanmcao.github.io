@@ -7,7 +7,7 @@
 
 # 💻 Employment
 
-- 2023.06 – present, Lecturer, Information Security Department, School of Cyberspace Security, Xi'an University of Posts and Telecommunications, China
+- 2023.06 – present, Lecturer, Department of Cryptographic Science and Technology, School of Cyberspace Security, Xi'an University of Posts and Telecommunications, China
 
 
 
