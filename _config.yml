@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanmei Cao (曹艳梅)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : "Xi'an University of Posts and Telecommunications"
   location         : "China"
-  employer         : "Xi'an University of Posts and Telecommunications"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5nsRgcsAAAAJ&hl=zh-CN"
   email            : "yanmcao@xupt.edu.cn"
